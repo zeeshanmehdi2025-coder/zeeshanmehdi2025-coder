@@ -11,7 +11,9 @@ I enjoy transforming raw data into meaningful insights and building practical Ma
 <p align="center">
   <img src="https://raw.githubusercontent.com/zeeshanmehdi2025-coder/assets/main/banner.png.png" width="100%">
 </p>
-type=waving&color=7F00FF,00C6FF&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Zeeshan+Mehdi+%F0%9F%91%8B;BS+Data+Science+Student;Python+Developer;Data+Analyst;Machine+Learning+Enthusiast" />
+</p>
 
 </div>
 
