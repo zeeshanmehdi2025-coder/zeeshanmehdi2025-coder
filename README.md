@@ -14,7 +14,13 @@ I enjoy transforming raw data into meaningful insights and building practical Ma
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Zeeshan+Mehdi+%F0%9F%91%8B;BS+Data+Science+Student;Python+Developer;Data+Analyst;Machine+Learning+Enthusiast" />
 </p>
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshanmehdi2025-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmehdi2025-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zeeshanmehdi2025-coder&theme=tokyonight&hide_border=true"/>
+</p>
 </div>
 
 ---
