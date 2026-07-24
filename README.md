@@ -9,7 +9,7 @@ I enjoy transforming raw data into meaningful insights and building practical Ma
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zeeshanmehdi2025-coder/assets/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/zeeshanmehdi2025-coder/assets/main/banner.png.png" width="100%">
 </p>
 type=waving&color=7F00FF,00C6FF&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff"/>
 
