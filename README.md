@@ -72,9 +72,11 @@ I'm a Data Science student who enjoys working with data, building machine learni
 
 </div>
 
+### Contribution graph
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📊 My GitHub Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshanmehdi2025-coder&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/zeeshanmehdi2025-coder" alt="GitHub Contributions" width="100%" />
 </div>
+
