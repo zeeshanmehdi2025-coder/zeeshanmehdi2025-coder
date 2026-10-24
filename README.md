@@ -1,16 +1,17 @@
 ![Zeeshan Mehdi - Data Science Banner](./profile-banner.png.png)
 # Hi, I'm Zeeshan Mehdi 👋
-
 ### 🎓 Data Science Student | 📊 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast
-
 Welcome to my GitHub profile!
 
-I'm a Data Science student who enjoys working with data, building machine learning models, and solving real-world problems using Python.
+I'm a BS Data Science student at The Islamia University of Bahawalpur, passionate about turning data into meaningful insights and building machine learning solutions to solve real-world problems.
 
-- 🔭 I'm working on Data Science and Machine Learning projects.
-- 🌱 I'm learning Data Analytics, AI, and Model Deployment.
-- 📊 I enjoy data cleaning, visualization, and predictive modeling.
-- 🎯 My goal is to become a professional Data Scientist.
+- 🔭 Building practical Data Science and Machine Learning projects.
+- 🐍 Working with Python, Pandas, NumPy, and Scikit-learn.
+- 📊 Interested in data analysis, visualization, and predictive modeling.
+- 🚀 Exploring AI, model deployment, and real-world applications.
+- 🎯 Aspiring to grow as a Data Analyst and Machine Learning professional.
+- 📚 Continuously learning and improving my technical skills.
+
 
 ### 🌐 Connect With Me
 
@@ -84,3 +85,8 @@ I'm a Data Science student who enjoys working with data, building machine learni
   <img src="https://ghchart.rshah.org/zeeshanmehdi2025-coder" alt="GitHub Contributions" width="100%" />
 </div>
 
+---
+
+### 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=zeeshanmehdi2025-coder&color=blueviolet&style=for-the-badge)
