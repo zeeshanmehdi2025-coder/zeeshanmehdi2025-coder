@@ -1,6 +1,9 @@
 ![Zeeshan Mehdi - Data Science Banner](./profile-banner.png.png)
+
 # Hi, I'm Zeeshan Mehdi 👋
+
 ### 🎓 Data Science Student | 📊 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast
+
 Welcome to my GitHub profile!
 
 I'm a BS Data Science student at The Islamia University of Bahawalpur, passionate about turning data into meaningful insights and building machine learning solutions to solve real-world problems.
@@ -12,8 +15,9 @@ I'm a BS Data Science student at The Islamia University of Bahawalpur, passionat
 - 🎯 Aspiring to grow as a Data Analyst and Machine Learning professional.
 - 📚 Continuously learning and improving my technical skills.
 
+---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zeeshan-m-499835363)
 - 🌍 [My Portfolio](https://zeeshanmehdi2025-coder.github.io/zeeshan-portfolio/)
@@ -22,40 +26,55 @@ I'm a BS Data Science student at The Islamia University of Bahawalpur, passionat
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-### 📊 My GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeeshanmehdi2025-coder&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmehdi2025-coder&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38BDF8)
+![Pandas](https://img.shields.io/badge/Pandas-1E1B4B?style=for-the-badge&logo=pandas&logoColor=C4B5FD)
+![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=38BDF8)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1E1B4B?style=for-the-badge&logo=scikitlearn&logoColor=FBBF24)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![Jupyter](https://img.shields.io/badge/Jupyter-1E1B4B?style=for-the-badge&logo=jupyter&logoColor=FB923C)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F87171)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E2E8F0)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=plotly&logoColor=38BDF8)
+![Seaborn](https://img.shields.io/badge/Seaborn-1E1B4B?style=for-the-badge&logo=python&logoColor=C4B5FD)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FB923C)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=E2E8F0)
 
 ---
 
-### 🚀 Featured Projects
+## 📊 GitHub Statistics
 
-- 🌍 **World Happiness Analysis** — Analyzed global happiness data using Python, Pandas, and data visualization to explore key factors influencing happiness and uncover meaningful insights.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zeeshanmehdi2025-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&text_color=E2E8F0" height="165" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmehdi2025-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E2E8F0" height="165" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📈 My GitHub Contributions
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/zeeshanmehdi2025-coder" alt="GitHub Contributions" width="100%" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- 🌍 **World Happiness Analysis** — Analyzed global happiness data using Python, Pandas, and data visualization to explore key factors influencing happiness.
 - 🏠 **House Price Prediction** — Built a machine learning project to predict house prices using Python and regression techniques.
 - 🤖 **Resume Analyzer** — Developed a resume analysis tool to extract relevant skills and compare resumes with job descriptions.
-- 📈 **Data Science Projects** — Explore my [GitHub repositories](https://github.com/zeeshanmehdi2025-coder?tab=repositories) to discover more projects in data analysis, machine learning, and Python.
+- 📈 **More Data Science Projects** — [Explore my repositories](https://github.com/zeeshanmehdi2025-coder?tab=repositories).
+
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 - Machine Learning
 - Deep Learning
@@ -65,28 +84,12 @@ I'm a BS Data Science student at The Islamia University of Bahawalpur, passionat
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 👀 Profile Visitors
 
-
-*Turning data into insights, one project at a time.*
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanmehdi2025-coder&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmehdi2025-coder&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
-</div>
-
-### Contribution graph
-
-<h2 align="center">📊 My GitHub Contributions</h2>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/zeeshanmehdi2025-coder" alt="GitHub Contributions" width="100%" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=zeeshanmehdi2025-coder&color=8B5CF6&style=for-the-badge)
 
 ---
 
-### 👀 Profile Visitors
+⭐ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=zeeshanmehdi2025-coder&color=blueviolet&style=for-the-badge)
+*Turning data into insights, one project at a time.*
