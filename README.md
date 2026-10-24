@@ -1,3 +1,4 @@
+![Zeeshan Mehdi - Data Science Banner](./profile-banner.png.png)
 # Hi, I'm Zeeshan Mehdi 👋
 
 ### 🎓 Data Science Student | 📊 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast
