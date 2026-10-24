@@ -64,3 +64,10 @@ I'm a Data Science student who enjoys working with data, building machine learni
 ⭐ Thanks for visiting my profile!
 
 *Turning data into insights, one project at a time.*
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanmehdi2025-coder&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmehdi2025-coder&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
