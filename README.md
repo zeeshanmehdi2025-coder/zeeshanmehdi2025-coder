@@ -63,6 +63,7 @@ I'm a Data Science student who enjoys working with data, building machine learni
 
 ⭐ Thanks for visiting my profile!
 
+
 *Turning data into insights, one project at a time.*
 <div align="center">
 
@@ -70,4 +71,11 @@ I'm a Data Science student who enjoys working with data, building machine learni
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmehdi2025-coder&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 
+</div>
+
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshanmehdi2025-coder&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
 </div>
