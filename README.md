@@ -44,11 +44,10 @@ I'm a Data Science student who enjoys working with data, building machine learni
 
 ### 🚀 Featured Projects
 
-- 🌍 **World Happiness Analysis** — Exploring happiness data using Python and data visualization.
-- 🏠 **House Price Prediction** — Predicting house prices using machine learning.
-- 🤖 **Resume Analyzer** — Analyzing resumes and matching skills with job descriptions.
-- 📈 **Data Science Projects** — Explore my [GitHub repositories](https://github.com/zeeshanmehdi2025-coder?tab=repositories) for more projects.
-
+- 🌍 **World Happiness Analysis** — Analyzed global happiness data using Python, Pandas, and data visualization to explore key factors influencing happiness and uncover meaningful insights.
+- 🏠 **House Price Prediction** — Built a machine learning project to predict house prices using Python and regression techniques.
+- 🤖 **Resume Analyzer** — Developed a resume analysis tool to extract relevant skills and compare resumes with job descriptions.
+- 📈 **Data Science Projects** — Explore my [GitHub repositories](https://github.com/zeeshanmehdi2025-coder?tab=repositories) to discover more projects in data analysis, machine learning, and Python.
 ---
 
 ### 📚 Currently Learning
